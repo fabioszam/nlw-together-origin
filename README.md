@@ -1,6 +1,6 @@
 <picture>
    <p align="center">
-     <img src="https://i.ibb.co/RzNFvsf/nlw.png">
+     <img src="https://i.postimg.cc/jdPwW8K8/nlw.png">
    </p>
 </picture>
 
